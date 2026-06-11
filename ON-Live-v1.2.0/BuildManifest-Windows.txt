@@ -1,5 +1,5 @@
 $NUM_ENTRIES = 3
 $BUILD_ID = ON-Live-v1.2.0
-pakchunk1000-Windows.pak		19712308	ver003	1001	/Windows/pakchunk1000-Windows.pak
-pakchunk1001-Windows.pak		7137		ver001	1002	/Windows/pakchunk1001-Windows.pak
-pakchunk2000-Windows.pak		38936576	ver002	1003	/Windows/pakchunk2000-Windows.pak
+pakchunk1000-Windows.pak		19712308	ver003	1000	/Windows/pakchunk1000-Windows.pak
+pakchunk1001-Windows.pak		7137		ver001	1001	/Windows/pakchunk1001-Windows.pak
+pakchunk2000-Windows.pak		38936576	ver002	2000	/Windows/pakchunk2000-Windows.pak
