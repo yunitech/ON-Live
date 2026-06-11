@@ -3,3 +3,4 @@ $BUILD_ID = ON-Live-v1.2.0
 pakchunk1000-Windows.pak		19712308	ver003	1000	/Windows/pakchunk1000-Windows.pak
 pakchunk1001-Windows.pak		7137		ver001	1001	/Windows/pakchunk1001-Windows.pak
 pakchunk2000-Windows.pak		38933227	ver002	2000	/Windows/pakchunk2000-Windows.pak
+pakchunk3000-Windows.pak		155964		ver001	3000	/Windows/pakchunk3000-Windows.pak
